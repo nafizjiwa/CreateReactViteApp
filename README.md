@@ -2,6 +2,8 @@
 
 ## FIRST
   In folder where you want to create react app run vite with this command:</br>
+  *note* using create-react-app we would use npx not npm 
+      
     `npm create vite@latest ......press enter`
     
 ## SECOND
