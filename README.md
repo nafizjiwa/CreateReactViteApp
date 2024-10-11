@@ -1,12 +1,12 @@
 # CreateReactViteApp
 
-## FIRST
+                              ## FIRST
   In folder where you want to create react app run vite with this command:</br>
     `npm create vite@latest press enter`
     
 ## SECOND
-  The installation will then ask what to name the project with this command:
-    ? Project name:>> you enter the name of you project press enter
+  The installation will then ask what to name the project with this command:</br>
+    `? Project name:>> you enter the name of you project press enter`
 ## THIRD
   The instal will then ask what frame work you wish to use with this command:
     ?Select Framework:    (Choice are)
