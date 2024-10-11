@@ -34,7 +34,8 @@
                         
       
 ## FIFTH
-  After install It will show you the next steps to run:
+  After install It will show you the next steps to run: </br>
+  
     cd reacttestfolder        (switch to the folder where app created)
     npm install               (run npm install)
     npm run dev               (to run the app complete this command in terminal/cmd prompt)
