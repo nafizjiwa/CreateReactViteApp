@@ -9,7 +9,7 @@
     `? Project name:>> you enter the name of you project press enter`
 ## THIRD
   The instal will then ask what frame work you wish to use with this command:</br>
-    `?Select Framework:    (Choice are)`
+    `?Select Framework:    (Choices are)`
     
                           Vanilla
                           Vue
@@ -23,8 +23,9 @@
       select the required one by scrolling using arrows up and down
                                       
 ## FOURTH
-  Then install will ask for the variant/language you wish to use with this command:
-    ?Select Variant:    (Choice are)
+  Then install will ask for the variant/language you wish to use with this command:</br>
+    `?Select Variant:    (Choices are)`
+    
                         TypeScript
                         TypeScript + SWC
                         JavaScript
