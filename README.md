@@ -1,7 +1,7 @@
 # CreateReactViteApp
 
 ## FIRST
-  In folder where you want to create react app run vite with this command:
+  In folder where you want to create react app run vite with this command:</br>
     `npm create vite@latest press enter`
     
 ## SECOND
